@@ -21,5 +21,3 @@ https://github.com/IUTInfoAix-M2103/TP4/blob/master/Enoncé.pdf
 Vous pouvez consulter le diagramme de classes en suivant ce lien :
 https://github.com/IUTInfoAix-M2103/TP4/blob/master/DiagrammeDeClasses.pdf
 
-Pour pouvoir conserver les versions successives de votre travail, clonez ce dépôt en cliquant sur ce lien : 
-https://classroom.github.com/a/Q3JbpPc3
